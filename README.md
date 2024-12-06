@@ -13,7 +13,7 @@ By creating a model that can interpret emotions from text, we can accomplish tas
 1. `Data/LSTM` - contains diagrams for LSTM metrics and results
 2. `Emotion_classify_Data.csv` - Kaggle dataset containing comments and labels
 3. `LSTM_model.py` - contains building, training, and evaluation code for LSTM
-4. `LSTM_Terminal Results.txt` - contains results printed to the terminal after funning `LSTM_model.py`
+4. `LSTM_Terminal Results.txt` - contains results printed to the terminal after running `LSTM_model.py`
 5. `FinalProjectSVM.ipynb` - contains building, training, and evaluation code for SVM
 
 
