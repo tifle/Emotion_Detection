@@ -15,6 +15,7 @@ By creating a model that can interpret emotions from text, we can accomplish tas
 3. `LSTM_model.py` - contains building, training, and evaluation code for LSTM
 4. `LSTM_Terminal Results.txt` - contains results printed to the terminal after running `LSTM_model.py`
 5. `FinalProjectSVM.ipynb` - contains building, training, and evaluation code for SVM
+6. `Final Project CPSC 393 Technical Report.pdf` - contains Technical Report
 
 
 # CONTRIBUTIONS:
